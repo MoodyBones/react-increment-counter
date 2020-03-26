@@ -4,7 +4,7 @@
 
 [https://www.youtube.com/watch?v=3ILsfTqwzpc](https://www.youtube.com/watch?v=3ILsfTqwzpc)
 
-## React Hooks
+![Screenshot](/src/images/screenshot.png)
 
 ## React Hooks
 
@@ -114,4 +114,4 @@ COMPLETED
 
 Very cool tutorial!
 
-Many hanks [Ania Kubow](https://twitter.com/ania_kubow)
+Many thanks [Ania Kubow](https://twitter.com/ania_kubow)
